@@ -1,0 +1,1000 @@
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0f3e42c0a3095fd4.jpg 609,0,716,82,0 847,0,914,82,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/94c387b9eb4193f1.jpg 0,301,166,470,0 166,330,202,403,0 344,325,368,421,0 435,312,477,426,0 494,299,534,429,0 525,317,573,430,0 552,322,605,392,0 725,333,752,458,0 734,330,781,466,0 758,288,821,477,0 837,296,914,493,0 917,349,930,373,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c342985f816646ce.jpg 592,443,678,622,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e37f07965e61f38c.jpg 302,64,507,460,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1149bf1736de4fcd.jpg 199,187,361,585,0 509,240,652,568,0 556,186,631,311,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/aa081cafad6aa61d.jpg 360,98,642,709,0 589,0,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5f3996223e3d6bc4.jpg 0,9,1024,429,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e78600e7cca0980e.jpg 655,224,682,292,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7009de17bda73456.jpg 184,0,245,83,0 621,0,915,469,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/865b73c223f2e778.jpg 296,62,547,580,0 344,27,1013,681,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/cd1ffc5f04638a42.jpg 293,124,475,978,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/85be1f399e5d4b0e.jpg 0,0,1022,304,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b12f34cab3a5402d.jpg 109,257,325,458,0 148,242,440,577,0 455,222,530,434,0 686,218,787,456,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/398c35c16b724348.jpg 189,0,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7d72d4c85be18a36.jpg 740,287,761,307,0 865,293,885,308,0 970,267,1022,370,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2cc8214e01ac1bdd.jpg 0,3,344,677,0 74,10,192,134,0 211,2,542,371,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/63fe0c7335bfe8ba.jpg 774,215,913,440,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4f1b16594140644f.jpg 0,94,1024,682,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ed5ea25b62bf5327.jpg 665,155,895,387,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/bbc6baad968a42cc.jpg 846,97,902,201,0 991,97,1024,153,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/52aef01be77f9dce.jpg 707,629,776,683,0 775,482,1024,683,0 819,471,1022,683,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/21af70b4f4cbf95f.jpg 189,127,446,331,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/cf3c0fda5b90249f.jpg 539,296,686,696,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/bfeb00c7604f168b.jpg 552,294,584,382,0 574,302,602,437,0 594,304,630,446,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6491328b5dfcfa8c.jpg 519,123,642,272,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/577f77b326ff65e7.jpg 0,62,1024,214,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/381433641e6dcbcb.jpg 0,55,733,437,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b6c1afdbef2cb375.jpg 301,250,762,389,0 830,281,953,592,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/de4770a278804d95.jpg 209,211,683,501,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/09e4b45529009b1e.jpg 255,270,352,502,0 291,481,405,656,0 569,334,678,458,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d547128bf348141a.jpg 311,192,531,470,0 473,321,500,388,0 495,296,552,418,0 533,67,903,548,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7a75816ac3f86cb6.jpg 521,0,762,177,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7c1a4eb736b3fc4d.jpg 11,13,214,186,0 397,117,432,251,0 565,221,765,614,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/50fbeaeb0b10d12e.jpg 74,90,162,213,0 227,0,328,101,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/884970e1e07459cf.jpg 234,0,488,701,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ca558a7320cbb518.jpg 0,0,1024,492,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c510ef1132929eb1.jpg 4,126,18,165,0 7,172,15,195,0 21,127,29,162,0 50,137,66,156,0 82,212,101,244,0 89,165,115,206,0 417,210,447,245,0 459,48,473,82,0 462,46,475,83,0 490,126,505,162,0 504,48,519,80,0 506,54,519,83,0 534,119,552,169,0 580,122,603,158,0 656,329,673,370,0 657,119,685,162,0 681,335,692,364,0 695,44,703,78,0 697,39,708,80,0 703,122,729,166,0 711,43,729,80,0 825,40,841,80,0 904,42,920,80,0 945,43,981,83,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e10da565408a9e8b.jpg 0,298,1024,768,0 949,141,1024,286,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/dbcd76aba12878d5.jpg 0,0,350,174,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a61b1adca99f0fd7.jpg 0,80,221,154,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ef9ae6f2802134c8.jpg 0,112,543,1024,0 0,177,82,400,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e19a163d9c2e6fbf.jpg 529,414,561,449,0 559,414,597,464,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/8226dd16da215ccb.jpg 2,50,979,428,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1d3f5efeec856fc1.jpg 0,0,139,226,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6e47767c2f50c846.jpg 122,340,593,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/aa80e332f8bcc1cd.jpg 55,79,974,576,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/07fc11298340bab3.jpg 0,239,201,727,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/05ffb4c3314b4162.jpg 66,93,1024,459,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d0a82af42c4ef1af.jpg 0,276,95,514,0 215,165,270,322,0 216,168,272,288,0 302,153,320,178,0 323,172,349,202,0 323,174,357,201,0 348,159,360,174,0 363,143,403,184,0 413,151,431,172,0 413,153,434,174,0 440,134,473,165,0 499,106,545,157,0 672,68,683,210,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/256711f30ef75cdc.jpg 270,280,550,565,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/def6ab89d3641011.jpg 206,90,714,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/739a4b703f16224d.jpg 100,377,270,528,0 296,395,384,519,0 435,376,507,540,0 785,395,885,475,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b2c753efc3bccef8.jpg 61,326,134,518,0 152,314,211,515,0 262,299,368,656,0 360,298,470,645,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7a916c39965f1f23.jpg 70,550,83,587,0 90,563,112,590,0 323,562,334,603,0 336,560,355,605,0 373,565,387,594,0 384,566,397,598,0 413,566,434,598,0 467,570,678,629,0 698,571,768,626,0 803,578,877,600,0 843,586,867,658,0 904,586,934,624,0 989,576,1000,592,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1d52350aa0e38156.jpg 292,0,363,116,0 468,286,584,533,0 522,520,714,690,0 579,80,627,232,0 692,83,749,246,0 734,88,766,246,0 812,76,894,249,0 911,63,1019,241,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2c826597a0622678.jpg 913,177,1022,497,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/bec05319a6ea067a.jpg 0,123,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/08062a892d05b9e5.jpg 0,0,1024,502,0 716,0,926,492,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/84d7918284d43048.jpg 32,178,163,604,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1ad3a4e292194aff.jpg 111,224,569,737,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0842c3058b6a264f.jpg 0,189,27,234,0 88,192,118,237,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e3f3c144088f4f2b.jpg 23,89,84,113,0 85,374,131,415,0 90,269,165,353,0 92,530,216,564,0 109,278,183,353,0 148,218,207,350,0 154,210,194,348,0 188,258,216,350,0 354,382,412,511,0 357,538,434,592,0 418,263,469,334,0 420,370,469,399,0 427,465,461,493,0 432,415,463,446,0 485,216,535,286,0 494,368,531,396,0 496,413,531,447,0 497,465,525,496,0 555,151,567,188,0 558,437,598,466,0 563,388,595,418,0 566,482,594,513,0 612,216,687,318,0 620,461,677,496,0 623,413,668,447,0 628,370,665,398,0 676,64,737,101,0 688,438,732,465,0 693,387,732,419,0 699,480,735,513,0 744,410,806,443,0 746,230,810,306,0 747,143,766,165,0 752,166,775,188,0 758,48,800,96,0 760,148,780,165,0 761,368,780,398,0 772,98,811,135,0 775,138,782,158,0 788,146,814,190,0 792,47,869,99,0 817,104,839,138,0 817,137,833,165,0 824,388,859,421,0 825,435,856,466,0 825,483,852,513,0 830,168,852,190,0 853,172,869,193,0 892,367,928,399,0 898,418,923,447,0 904,95,928,143,0 915,96,939,141,0 937,367,1002,506,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a9080685b5a3182e.jpg 267,205,378,483,0 270,203,376,328,0 405,128,493,322,0 453,120,531,334,0 462,120,522,333,0 504,110,589,246,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/292200f2f7fb1ce7.jpg 66,312,208,397,0 598,99,864,730,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1ede651dcabfa173.jpg 0,181,1024,683,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/30ea1069f8ebf42f.jpg 643,0,1024,451,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/159574653180b03e.jpg 0,0,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5b81976dad564143.jpg 24,172,544,682,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/29e61efb037625ea.jpg 98,141,725,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2084284048f60760.jpg 325,122,945,685,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/03a50ff84f9d86c9.jpg 46,200,184,581,0 656,102,1006,766,0 717,245,782,402,0 757,67,859,118,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/cf2da01080d55461.jpg 0,366,148,500,0 208,385,334,505,0 325,334,435,440,0 346,388,444,521,0 474,349,572,449,0 622,354,723,462,0 716,364,813,470,0 831,360,955,487,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3dd8b785033994c0.jpg 5,109,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/fc7ccb6fcbd536cf.jpg 124,134,169,221,0 633,132,674,243,0 729,127,773,267,0 773,127,807,262,0 838,187,897,248,0 900,129,936,267,0 933,148,974,257,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/288ad886029dfe44.jpg 375,68,624,552,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/30c2ef5f1c972c6f.jpg 256,103,844,917,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0110e8ec47d60bda.jpg 130,202,683,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/999020c9b1720d9e.jpg 176,0,369,146,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2ed8a3a24b7a0fb6.jpg 256,243,444,536,0 623,201,854,511,0 965,254,1024,492,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ffb5a44fefc97698.jpg 8,177,26,214,0 24,184,38,219,0 27,196,50,223,0 44,180,59,217,0 56,183,74,219,0 401,184,409,222,0 600,204,620,222,0 624,190,633,211,0 633,196,644,213,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/dd2eef18a136c086.jpg 38,252,229,480,0 371,264,410,392,0 410,226,487,296,0 606,273,653,386,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7c8540c748002cc0.jpg 0,293,36,329,0 150,348,169,452,0 489,292,524,325,0 639,255,751,323,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c90a93e0bde61ef6.jpg 291,222,469,490,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d1dbbc466161c4ab.jpg 88,255,363,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/573ed7b5e31efa7c.jpg 194,270,422,438,0 749,666,939,766,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/558f40dda9b678ab.jpg 45,110,175,357,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e61fdde79d8bd31e.jpg 366,114,392,170,0 541,78,635,194,0 654,110,717,213,0 757,110,813,333,0 784,134,987,573,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/43b8781831fb3303.jpg 30,432,56,482,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1aec7b15a3b5ebad.jpg 48,426,77,493,0 71,417,89,487,0 153,544,221,683,0 584,396,1024,544,0 592,284,639,340,0 613,267,654,331,0 648,278,704,305,0 652,258,708,310,0 659,355,702,426,0 734,242,773,323,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/89aff5857a3af15a.jpg 398,288,430,339,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/13dda6543abc240b.jpg 333,0,1024,603,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7188bf41b43dfd01.jpg 0,2,147,310,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3e85b66716009c21.jpg 3,453,45,544,0 42,448,70,526,0 50,453,115,544,0 147,446,173,472,0 210,456,242,480,0 243,456,275,486,0 298,454,328,486,0 382,450,429,504,0 435,448,482,496,0 474,445,498,483,0 555,448,590,491,0 598,458,630,478,0 803,445,813,472,0 965,427,986,482,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b3b14bd6b657e917.jpg 0,24,1024,626,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c4df5ef3ffa73c22.jpg 153,21,1024,538,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e34553a15b0fa3f4.jpg 249,0,1022,679,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/304aa34946ed0e4b.jpg 88,668,172,798,0 90,219,352,818,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/bb3ef25e44cf31fe.jpg 53,262,459,897,0 481,598,516,795,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/38fc3ffa5a3bb7a6.jpg 0,459,42,594,0 51,648,136,766,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6cc9dfe1f699a541.jpg 310,256,382,541,0 595,253,710,587,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/940d6ced3df87d74.jpg 0,0,1024,78,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/55613ea6c970d918.jpg 537,444,573,477,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7e1a4afa1a3510aa.jpg 412,118,472,160,0 425,391,471,441,0 448,603,525,648,0 472,199,533,242,0 472,476,545,533,0 501,278,546,316,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/72fdd744b2405808.jpg 61,616,82,642,0 88,650,101,674,0 187,128,206,152,0 224,653,237,682,0 240,646,254,674,0 272,403,290,424,0 675,205,690,227,0 781,178,790,198,0 883,130,891,146,0 902,330,915,362,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/562e32813cb107c9.jpg 405,225,606,443,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/faf61ff87d73ed3b.jpg 334,88,500,292,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3d593a31187198bf.jpg 0,702,58,766,0 213,755,261,766,0 301,749,374,766,0 547,666,720,766,0 830,691,928,766,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/df969b3f1fd12a8c.jpg 342,221,1005,488,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3fc303e25fba693d.jpg 96,10,586,973,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/595b56664c2b7613.jpg 306,616,347,664,0 429,123,462,181,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/cb7cd364cd7c258a.jpg 0,138,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4f999b541dd5d487.jpg 519,0,625,115,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0bf50dcc211e7e67.jpg 0,0,539,422,0 0,423,535,680,0 524,373,1022,669,0 529,0,858,354,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f8026ea33c54be8b.jpg 0,0,101,173,0 173,0,1024,171,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/58349f373d6a6a56.jpg 671,128,701,158,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e9a68d28911c43ff.jpg 0,11,1024,683,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ffa8c678f0026b86.jpg 0,0,768,688,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3961162887c4fbd4.jpg 205,311,439,834,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e41f5831f00e2ca3.jpg 238,329,349,519,0 436,12,543,170,0 623,307,742,511,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/64f372f4fe3b8e98.jpg 163,169,190,204,0 564,158,585,199,0 743,155,848,471,0 959,145,982,189,0 982,130,1024,255,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c2187555ad59d082.jpg 68,356,317,502,0 396,243,450,376,0 628,279,672,352,0 779,288,834,377,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/336aab5d0d927a95.jpg 0,0,1024,682,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c5ccbcf97826f82a.jpg 38,0,952,487,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/eec14f14557a3522.jpg 131,0,608,675,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6cd0ad7be42e47b9.jpg 358,262,429,353,0 449,274,515,347,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3d9dd014d65e70b6.jpg 620,285,686,520,0 762,295,832,541,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b01a49e6596352a9.jpg 208,651,245,722,0 458,650,488,730,0 904,667,928,722,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4fc0f33852f57fe7.jpg 563,312,579,332,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/58a0cfdfd118f9b6.jpg 0,59,926,293,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/75ce4f3d541f0c28.jpg 372,159,634,678,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/75548be68ae60be9.jpg 0,0,1024,210,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/498e3336e64ab815.jpg 247,364,692,492,0 910,262,1024,326,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1df6f34ea635e483.jpg 0,0,1024,679,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ca7c2d6759b1241b.jpg 675,71,707,193,0 742,79,775,189,0 817,76,858,189,0 862,70,906,171,0 891,74,935,195,0 899,76,964,199,0 955,54,1009,196,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/82877506613b7df6.jpg 85,686,201,811,0 153,201,213,312,0 198,658,368,895,0 414,686,508,808,0 468,216,547,349,0 481,205,608,438,0 569,658,826,1009,0 752,220,852,381,0 795,311,1006,510,0 823,279,961,416,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f6ba1b47b09fe8cc.jpg 0,0,1024,658,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/fb4a45c4f372de17.jpg 0,0,1024,462,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/803be87c0eb3c6ff.jpg 0,3,326,136,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3b23b0668f9e3569.jpg 4,393,582,576,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c29b524d87a7fc0d.jpg 283,74,667,649,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6bc6a1b363c47f2a.jpg 119,132,412,640,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c0a7e2c6e2180732.jpg 1,260,756,564,0 758,296,833,388,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0a0224155926e572.jpg 0,11,1024,257,0 381,243,425,346,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/fc2b4ccd8add258e.jpg 0,829,768,886,0 130,840,210,1024,0 192,864,258,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/fac1ebf8e848a78c.jpg 149,51,614,901,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b34f12763bc1a452.jpg 251,70,1024,683,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1bb85500f000105f.jpg 69,200,989,731,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ee8c06cf090e9a13.jpg 138,70,951,782,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0793304c11e8f306.jpg 0,0,1022,682,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e76f43d5b30c60f7.jpg 3,0,678,1021,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/67b01491e25f36b6.jpg 0,0,1022,766,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/82c4410eebb91766.jpg 165,151,219,295,0 215,140,277,233,0 394,136,561,325,0 642,156,683,384,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/348824dd8c0c74e6.jpg 253,78,408,559,0 685,241,739,311,0 774,228,849,308,0 931,208,1024,305,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e4cfbcfef0414fc6.jpg 0,0,197,577,0 152,18,282,347,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6dca9eeb498da6bc.jpg 0,539,683,985,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/48dc96553db12aea.jpg 510,352,642,768,0 592,379,774,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/24f263c2e01787f2.jpg 299,258,426,373,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/56b098cdc332b967.jpg 902,0,1024,238,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/61c7a9d5cdad49eb.jpg 80,0,955,691,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ef57d228078f8e43.jpg 0,491,1024,765,0 363,424,395,459,0 445,429,474,461,0 488,389,517,454,0 555,432,581,454,0 627,416,648,445,0 645,424,670,443,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f9f75e54955ea806.jpg 285,640,309,694,0 523,600,547,678,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/9a6747129ee9d39d.jpg 0,305,50,531,0 465,252,681,558,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4bfaefcfaf07b07b.jpg 213,495,485,635,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/36878494503754fe.jpg 0,119,262,357,0 158,0,278,186,0 373,100,862,294,0 618,0,696,124,0 857,21,1024,166,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7238c2bd86457c92.jpg 0,0,768,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ead50ff3f5620f68.jpg 5,240,504,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1d2e118c43a996e8.jpg 76,21,683,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3b746b3b727e62cc.jpg 0,0,436,685,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d3c2f6cff3b7ad2c.jpg 788,50,1024,225,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/654d741e1d80fd43.jpg 0,0,135,685,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b5926c18949a9262.jpg 51,0,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2b1068ed0f340c0d.jpg 13,32,56,117,0 58,91,122,216,0 287,381,386,508,0 338,88,393,234,0 377,421,457,614,0 393,236,494,352,0 402,508,481,609,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/30c5c930111373ac.jpg 0,0,576,768,0 110,0,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b0cdf799f2f20857.jpg 0,50,1024,778,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/fabfd943cd905fe0.jpg 150,120,683,870,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/693932989d9844ee.jpg 0,360,43,499,0 222,88,706,587,0 880,110,1024,648,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7776cb8351c2cc5d.jpg 745,304,775,340,0 787,307,823,340,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f09000a451662897.jpg 85,404,176,657,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/177b3156e25395f1.jpg 113,346,934,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/013087a0a86316c1.jpg 232,1,640,145,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c5cb1e4343158596.jpg 0,0,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a460de2ca141b91c.jpg 0,41,36,206,0 38,62,77,198,0 115,85,142,224,0 184,153,240,316,0 237,142,304,293,0 304,169,344,305,0 409,175,441,292,0 441,183,471,254,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c2ed7f61422b7c0c.jpg 77,44,472,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5749bc49945b5580.jpg 74,51,1001,522,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7a52d426267dcb71.jpg 140,397,835,961,0 218,425,294,514,0 250,423,309,510,0 270,397,360,482,0 405,508,830,956,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/8be31c022ca73554.jpg 175,124,908,600,0 382,535,636,683,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/dff31a7e311d2055.jpg 43,210,150,350,0 203,2,309,232,0 480,16,539,54,0 544,11,600,51,0 976,123,1024,480,0 986,50,1024,442,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/bc58219d6a163729.jpg 14,379,768,742,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/909c86e59ce3f66d.jpg 665,81,733,149,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/77b8f8b3ee724d13.jpg 0,0,1022,766,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c0098df8a9eacb8d.jpg 939,505,1022,681,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4cc4aae8a1ab1ed4.jpg 338,261,437,370,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0240c47cadd0225d.jpg 360,234,1024,662,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f5bec5bc72259489.jpg 2,0,164,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/bcfebdff06509df8.jpg 192,136,864,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/db12598d7be45c55.jpg 737,369,780,411,0 790,373,824,405,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/46fb4f1e1692935a.jpg 250,443,362,561,0 260,445,355,570,0 330,490,519,578,0 365,484,410,564,0 371,482,420,553,0 377,478,422,556,0 626,67,938,501,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7d336fc5bfd3d0a9.jpg 48,322,757,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a0f6d7a197ceb975.jpg 0,0,652,405,0 0,92,796,636,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ca8dc5df1746aade.jpg 218,0,293,136,0 393,0,497,437,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/900ebcc511b9bbe4.jpg 0,146,170,339,0 18,242,755,653,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/590e38c79a092829.jpg 51,210,683,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d6d1c4af0eb29b02.jpg 411,293,630,638,0 509,21,822,680,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c6b6e2a745c28aa2.jpg 500,124,554,221,0 577,124,699,244,0 717,95,902,386,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6eadb151eb529385.jpg 0,87,44,324,0 29,64,73,270,0 72,51,183,298,0 152,50,227,260,0 333,71,369,109,0 414,61,443,109,0 470,53,612,121,0 646,57,705,216,0 712,53,809,152,0 829,43,1023,193,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/83e5a5785a3c105f.jpg 0,306,14,396,0 27,288,201,396,0 109,289,148,407,0 181,306,232,353,0 195,212,873,490,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/616d89911ccc525a.jpg 0,102,901,417,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c5256bc6c613d423.jpg 57,279,681,943,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/760c9ffab172262a.jpg 48,93,1022,766,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e007ce90f46b152d.jpg 322,106,494,261,0 515,162,634,271,0 662,162,773,266,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4a94b0f7b4ab583c.jpg 560,121,1024,682,0 813,27,858,118,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6d3610017d813763.jpg 357,29,381,51,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/663f0b63f7115c4e.jpg 0,29,1024,576,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/eac78a74fcd5a8f6.jpg 0,245,734,762,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5a6934713b89fa2b.jpg 828,0,1022,512,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2b9739187991c820.jpg 0,0,1022,680,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a2d378de6744828b.jpg 0,0,213,400,0 110,0,279,325,0 314,0,443,264,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/55b6aa65a52e7e3c.jpg 0,222,768,829,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b3ac244935827ac4.jpg 6,176,114,314,0 826,250,933,350,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/65e9ce80e2d59a8a.jpg 0,286,1024,504,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/cf176d6332e5a097.jpg 145,134,162,179,0 402,134,414,159,0 431,133,485,278,0 462,143,550,413,0 520,133,596,336,0 597,130,628,179,0 604,143,676,349,0 704,139,758,339,0 758,153,855,427,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/44ecfef3b31b50a8.jpg 38,0,286,205,0 466,0,619,107,0 723,0,850,154,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/fa7d7e9310ce1a60.jpg 273,46,453,483,0 516,78,649,470,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7da237c6d3357d3a.jpg 0,45,472,685,0 272,83,688,685,0 514,162,1024,685,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c685d6a892019c2c.jpg 36,19,355,1011,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5e38601514eef4d1.jpg 466,421,912,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/9d3a59cc8c976dc2.jpg 647,383,1022,1018,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/dae99e894ecfd06e.jpg 207,95,425,530,0 380,165,629,604,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/472ce5b0a3d5cf75.jpg 139,0,1024,683,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/11cefac5ee96401e.jpg 18,15,546,681,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5370111c15d2e3ef.jpg 130,79,1002,269,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d25be1edc7216833.jpg 354,37,405,118,0 530,54,598,146,0 597,45,672,173,0 699,0,885,363,0 738,37,766,110,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f6db9536480ceef1.jpg 22,128,1019,768,0 154,146,522,768,0 587,123,962,765,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a5acc895e047bc4d.jpg 0,394,112,595,0 0,405,304,766,0 0,646,93,766,0 3,392,72,453,0 13,232,331,768,0 128,179,382,709,0 437,293,659,768,0 437,349,507,624,0 544,352,690,638,0 736,291,962,426,0 766,298,1014,768,0 899,155,987,290,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/301fe0c932b89b5d.jpg 21,101,355,578,0 490,18,712,602,0 771,0,976,642,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5ff2ae496040c16d.jpg 221,0,725,602,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1f9ded7baf394a47.jpg 0,0,1024,610,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/926a7a775f4b982c.jpg 42,405,89,561,0 101,367,870,604,0 675,382,743,591,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b2a222d412ddb86b.jpg 715,64,1022,766,0 843,0,1022,374,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4717583a3adf2b04.jpg 570,220,816,606,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d0bc512b6b05bb67.jpg 307,517,624,683,0 464,0,523,54,0 542,0,595,50,0 710,0,779,101,0 897,0,1024,275,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b417502df787ecbb.jpg 157,0,417,363,0 170,69,673,906,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/fde758db84b2807a.jpg 0,136,391,766,0 560,0,705,63,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/81faafae8a27d75d.jpg 83,237,150,304,0 515,219,615,302,0 592,160,636,193,0 649,163,689,199,0 690,159,757,295,0 760,180,816,254,0 903,272,938,310,0 912,243,974,313,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ae4af3f7b2d440f2.jpg 341,234,362,251,0 403,597,427,665,0 722,391,739,434,0 776,589,816,630,0 831,428,856,465,0 855,458,888,505,0 870,435,888,487,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/8eb360c06d53db7c.jpg 182,429,243,491,0 938,410,958,491,0 986,394,1022,490,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/963c8c03f2682a8c.jpg 449,70,709,465,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/136417d2bb8a7ec4.jpg 398,212,1024,678,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/41d29cd6d8470a17.jpg 299,19,727,694,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/03627621b345e84b.jpg 0,0,1024,680,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6defbc6b78e9d624.jpg 0,33,87,178,0 67,0,170,219,0 760,0,857,175,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/01664ee7a0a4c312.jpg 14,408,75,618,0 94,419,173,602,0 181,390,928,646,0 422,149,618,766,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f5694f07eef203d5.jpg 428,338,600,403,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/549d80e5f1229a58.jpg 0,4,304,751,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/cf81c06ff47c8ed4.jpg 304,261,435,686,0 358,270,565,632,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/fb18fb5ccd3e8fc9.jpg 0,136,345,504,0 869,205,894,241,0 911,137,961,283,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4a890975ec0065cd.jpg 156,130,554,479,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/53e19901290661c3.jpg 399,378,682,621,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/79ad931345696bee.jpg 3,9,391,402,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/92fbd9a810960a0f.jpg 359,392,470,474,0 554,255,641,319,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c793d4f8ab48f130.jpg 326,50,707,370,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c031ae2c8033d737.jpg 0,287,296,453,0 0,532,128,680,0 29,209,41,237,0 50,198,148,234,0 85,526,127,635,0 119,533,165,657,0 154,192,183,216,0 211,184,227,210,0 211,267,480,465,0 282,178,287,196,0 290,270,304,304,0 304,264,316,295,0 316,263,329,293,0 332,272,347,293,0 340,293,584,680,0 382,166,391,177,0 393,165,397,177,0 433,159,443,171,0 444,157,452,169,0 456,156,476,166,0 674,314,693,342,0 675,372,832,542,0 708,629,748,668,0 769,607,803,666,0 782,632,822,668,0 811,607,853,666,0 852,600,905,668,0 853,632,900,669,0 894,375,1022,527,0 909,641,945,671,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d45b48588ec7ecbe.jpg 69,468,80,484,0 79,470,89,488,0 125,465,133,485,0 180,468,192,502,0 193,467,201,497,0 210,471,224,497,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/257148fe8df94563.jpg 0,0,402,222,0 60,15,101,138,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/879460928773f19e.jpg 721,355,784,425,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6b6a7ed2ad569b72.jpg 219,224,566,510,0 589,0,891,368,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6ce2d8c34515780f.jpg 0,175,992,771,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/debfca61376e3bb4.jpg 592,390,688,640,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/bff23ed642b8c4da.jpg 67,182,216,365,0 257,167,414,356,0 429,120,986,505,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/fcccbf2882150875.jpg 695,506,739,603,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0966db369428046e.jpg 153,233,1000,693,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f328670ce3ad5da4.jpg 984,109,1003,157,0 1003,107,1024,152,0 1010,125,1024,157,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d0b0afe57c6998fd.jpg 0,416,681,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/cca21b1f6c5f6ee4.jpg 945,549,997,600,0 951,180,1024,550,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/627ceafe0ac6eef7.jpg 499,316,732,802,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/da76c882a9331a31.jpg 485,211,606,560,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ed16fde8adc5fd26.jpg 0,499,370,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/069761868a151062.jpg 538,291,635,544,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6914acfc49e8152e.jpg 160,623,224,678,0 455,106,550,202,0 464,621,520,678,0 559,98,631,185,0 617,103,690,232,0 774,523,932,678,0 959,75,1022,211,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/28bfb0e59b29f7fa.jpg 475,230,712,731,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/36404ccad342f03e.jpg 94,0,989,760,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/af3a6f8922f38a81.jpg 74,503,127,602,0 111,518,162,601,0 379,442,467,559,0 763,438,819,529,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e61d917174e3f6ce.jpg 235,153,331,322,0 329,148,428,247,0 480,258,917,758,0 563,159,666,299,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d889445e91b2c9d1.jpg 0,108,67,209,0 580,120,616,139,0 590,175,680,253,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/190f1e86cf1763c4.jpg 69,10,593,562,0 398,21,877,544,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6c688879812afe2c.jpg 139,95,1021,390,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/86b86487e111407f.jpg 84,0,766,620,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a1b27fcba8562cd8.jpg 0,259,874,355,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c2f81a85fe3a18d7.jpg 392,296,398,312,0 400,322,406,346,0 418,278,430,299,0 430,272,442,285,0 437,320,450,342,0 486,261,494,270,0 501,259,510,275,0 520,368,534,387,0 528,330,539,354,0 552,280,558,298,0 560,306,570,326,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0885b5fdd2581c11.jpg 232,136,298,206,0 814,62,1014,246,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e60a4c915b39938a.jpg 106,205,282,469,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/100d7e40829a2e2a.jpg 152,309,551,854,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7b1ce982e4130ee5.jpg 94,9,174,135,0 220,57,262,144,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ef79215112789294.jpg 0,203,1024,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4c1fb84b969c4d5f.jpg 393,175,501,382,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/dd4bafaf25d5226f.jpg 229,120,288,237,0 275,148,327,248,0 314,187,381,255,0 318,131,360,213,0 575,163,754,414,0 597,65,749,238,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/bd48daf027aff858.jpg 210,334,276,376,0 323,348,370,474,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a3927cfce0e21737.jpg 748,213,888,390,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6e714f54c43fb0f4.jpg 204,0,655,565,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7457a2c22de90025.jpg 419,134,786,440,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/39d31e1adb35f8f2.jpg 24,80,211,436,0 151,115,307,434,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3766e8bca49cfae2.jpg 0,0,1022,515,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/84a41382ff3e907d.jpg 715,0,779,179,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/44209608a8b3ea6e.jpg 2,36,1024,375,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7a2fa4a98ccb491b.jpg 0,0,547,680,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/037139519b0044b3.jpg 0,0,795,238,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/9a5e89dd7b708a87.jpg 72,112,803,706,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a53cd44441ddf1fd.jpg 0,234,474,745,0 929,2,981,107,0 959,0,1024,111,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/674bc4f8e0f33365.jpg 0,0,685,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/33e704d954c8b0d0.jpg 290,50,644,141,0 315,44,500,82,0 328,3,382,37,0 333,443,377,479,0 335,486,364,507,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f9c992f0908482ac.jpg 33,65,1024,561,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/649d58998d13af10.jpg 575,250,823,685,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/06d95c03e3c1e20f.jpg 152,331,176,376,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/db9359224acbb8ad.jpg 832,200,915,307,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6c6eecf728575362.jpg 150,0,1024,539,0 947,598,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e1a6a84489440f4e.jpg 9,167,40,278,0 31,171,69,282,0 62,175,98,281,0 95,162,166,344,0 172,167,241,343,0 230,180,278,290,0 281,180,303,247,0 408,179,433,256,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/17c417887e3d3232.jpg 400,32,1003,486,0 477,410,778,714,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0d4c2723317629a0.jpg 232,32,497,289,0 294,604,426,949,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/414f3f1ceb2f299d.jpg 493,31,823,573,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5517797d85a28e07.jpg 734,133,799,364,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/9adecd9e627d36a3.jpg 891,214,968,458,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/74c33b28a82a93a1.jpg 468,212,646,335,0 523,269,722,403,0 885,131,1024,390,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b87a916f2a8fdb38.jpg 44,67,514,677,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5ff8f6196f69a304.jpg 0,38,683,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1ffbc2e1d66bbd62.jpg 278,242,387,405,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/996fb54233c8c3f5.jpg 0,114,122,474,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f3e93c978c316d0e.jpg 302,121,444,251,0 483,115,612,221,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/718c664e7578789f.jpg 0,3,1024,654,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/8edeb2fadf784261.jpg 155,166,431,252,0 659,163,863,230,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1b077c27cbd45d5a.jpg 441,852,512,1024,0 535,820,630,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1f5f5a2e5bbc00f0.jpg 203,392,215,409,0 455,457,488,532,0 458,362,465,380,0 501,362,544,383,0 589,365,595,380,0 616,360,620,378,0 934,421,956,457,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b7731f3e659f7ebf.jpg 466,235,677,536,0 848,580,907,764,0 912,618,944,764,0 931,602,949,673,0 950,565,1022,764,0 954,525,1022,660,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6ba0e9c90edd52f8.jpg 0,712,44,794,0 201,212,280,317,0 251,180,347,301,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/8de12cf5e5636532.jpg 0,462,72,573,0 119,0,353,308,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a288c3972dc65ea7.jpg 106,131,1024,437,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f883fdf59b3de549.jpg 674,408,778,541,0 728,381,820,514,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4aa4c725802fb7ee.jpg 350,270,730,514,0 590,0,754,312,0 696,206,1024,394,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/05afbb5fc1ca9f1e.jpg 0,0,384,190,0 474,0,798,190,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/8a2fba53f26ce351.jpg 0,153,1024,683,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/057bce56bfbbf5d6.jpg 276,236,331,365,0 279,199,344,350,0 657,289,741,409,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/967ef77b48a22bbb.jpg 0,229,1024,758,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/87286cce2f5a6ddd.jpg 493,107,541,184,0 531,104,576,203,0 618,85,677,248,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0ebc08df9323a51e.jpg 345,240,745,439,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/96208300649c7b09.jpg 0,230,1024,594,0 344,235,550,562,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/66c05fde49c9fe4e.jpg 151,69,211,228,0 231,75,281,283,0 251,53,301,273,0 369,61,885,271,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3010e8373a200753.jpg 731,611,846,664,0 789,579,878,629,0 973,438,984,475,0 984,434,997,474,0 994,432,1005,474,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a10bc561640c0f39.jpg 0,314,683,630,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/86eb6825e774440b.jpg 549,0,681,178,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/61993a1b9a63ed4a.jpg 0,213,99,280,0 29,7,198,264,0 704,212,843,445,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4df20a55a756fd56.jpg 214,221,394,498,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/bd6a98c27cd601e4.jpg 194,182,1024,307,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4b8bddefcec27f07.jpg 465,274,524,304,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2ae532da1478e448.jpg 745,79,796,228,0 976,127,1012,295,0 995,118,1024,307,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7bda87d3c0929fef.jpg 119,0,195,58,0 255,0,327,26,0 527,0,601,24,0 603,0,653,18,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/296aa0a1a42a074f.jpg 147,150,322,503,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f1db15ad61f734bc.jpg 387,139,577,310,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f6bb963df0fb3297.jpg 0,26,447,647,0 247,275,356,375,0 300,231,398,366,0 403,247,555,416,0 489,232,580,354,0 576,268,718,397,0 745,246,883,391,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7b83d7d18abf997c.jpg 323,528,464,722,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/70ad37eb8ac28b8c.jpg 47,38,341,973,0 341,36,645,967,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/aff90d2673ab5082.jpg 219,378,421,866,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d654ca534346b258.jpg 20,656,107,683,0 66,381,113,406,0 119,470,184,573,0 181,345,199,379,0 335,314,344,340,0 418,326,429,367,0 530,346,553,400,0 551,369,572,394,0 571,349,595,406,0 595,320,604,345,0 597,346,610,405,0 607,346,622,382,0 720,331,743,348,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/9d8e4efddf0b0a52.jpg 350,58,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/16829d1cc125b697.jpg 35,470,508,761,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a7290eba95eff1b4.jpg 0,42,352,768,0 566,272,816,677,0 741,290,910,714,0 885,440,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/14797a526b6709c6.jpg 652,164,859,500,0 788,155,852,406,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/09a93cc30d2ce521.jpg 3,65,344,682,0 290,275,570,653,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e7f537a9e1bd7c85.jpg 107,372,205,564,0 695,369,864,642,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ef45c14a2d0788d4.jpg 389,240,633,721,0 558,266,814,753,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3708ab6e0fa50034.jpg 27,25,237,295,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/39c02be9e1d39ab3.jpg 0,277,507,1022,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/bd1ad5d3038385a6.jpg 320,246,418,349,0 366,373,706,706,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ae72bdcc624ffcb5.jpg 312,730,867,1022,0 645,222,1022,713,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7a312d59f726a692.jpg 16,194,1024,563,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/cc1f74bfe9432c50.jpg 0,366,244,682,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b1b9b984f1c78b59.jpg 17,293,38,356,0 323,386,432,547,0 907,254,985,398,0 929,239,971,287,0 1009,308,1024,386,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/030265ffe2e90f50.jpg 0,370,8,387,0 0,370,41,503,0 39,378,68,494,0 62,364,109,514,0 71,373,148,586,0 127,364,169,509,0 133,360,186,428,0 168,390,239,571,0 217,366,234,419,0 227,375,264,470,0 234,381,285,479,0 243,364,266,414,0 264,352,284,381,0 639,216,674,245,0 677,195,725,261,0 862,384,929,458,0 874,399,885,506,0 881,378,915,408,0 912,370,950,509,0 926,378,986,532,0 929,255,952,278,0 947,370,976,497,0 977,245,1018,272,0 985,378,1022,526,0 989,372,1022,552,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f04f1652019f663a.jpg 171,0,1000,683,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d41f6c55f8eb18ea.jpg 62,80,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2b9ef951d2f35d4e.jpg 434,504,768,981,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a65a7ea3670a7169.jpg 0,610,104,680,0 140,426,178,464,0 276,394,295,414,0 305,302,361,402,0 385,474,449,535,0 435,337,453,354,0 491,310,530,369,0 551,470,615,530,0 574,316,594,357,0 584,320,618,369,0 707,381,725,403,0 817,413,859,449,0 900,582,1022,680,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/28a5af092bdc61a7.jpg 57,76,976,648,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/686088f2ae3f14c2.jpg 550,128,690,336,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7ae3189325e28791.jpg 414,328,560,412,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a19f008f84a1f7be.jpg 0,652,53,973,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/20e8555a08042165.jpg 127,541,171,585,0 195,542,205,565,0 254,538,450,582,0 477,536,492,576,0 492,532,506,576,0 819,535,832,582,0 829,529,852,580,0 858,550,870,585,0 902,532,979,580,0 989,550,1003,580,0 1010,538,1022,585,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1420d7e09988db90.jpg 119,249,305,402,0 320,266,346,314,0 346,284,369,311,0 452,275,488,314,0 523,281,552,311,0 598,278,654,468,0 639,316,680,568,0 651,257,681,581,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3f034364b7081628.jpg 715,458,728,485,0 731,453,743,490,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/445b2eba287dd5a4.jpg 0,0,994,766,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/fd97b4a47658d2df.jpg 115,576,542,766,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e233a23bc8625466.jpg 307,249,398,341,0 642,374,661,432,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/aa9e12c010ccf807.jpg 0,211,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1648063b97a5e622.jpg 58,206,393,637,0 406,303,604,517,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ac5af78fc82941f0.jpg 119,208,213,521,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ccb79683381d945f.jpg 440,207,621,417,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/336fa861d07c3dd4.jpg 272,632,318,686,0 277,709,315,763,0 341,622,366,680,0 387,626,418,686,0 419,632,451,691,0 466,634,496,688,0 512,629,549,685,0 563,629,598,683,0 613,632,645,686,0 662,632,693,686,0 712,632,744,688,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/92557f15463a03ec.jpg 256,251,504,478,0 917,339,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5d63556a095e0101.jpg 38,21,265,524,0 493,0,665,265,0 730,0,997,532,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b911a718021832b8.jpg 291,189,387,437,0 862,165,974,394,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f998cfb5acefe12b.jpg 0,2,1024,352,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/268bfd283170a4a1.jpg 0,2,1024,679,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/28ebbf2019ebfb86.jpg 0,0,1022,582,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/35ce1cbe20beef8a.jpg 0,262,86,585,0 507,315,670,675,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/8430e598e1fc2123.jpg 670,59,1024,522,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4cc4de5fdfda6f23.jpg 0,146,165,344,0 250,126,344,298,0 854,123,920,334,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/76367a8aae3925ea.jpg 0,363,404,677,0 562,356,1024,636,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0b679ffe819c1799.jpg 400,304,440,370,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d8c60b0ba15e60f2.jpg 0,416,95,599,0 307,50,392,185,0 598,385,725,519,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/466c6d91b2030d53.jpg 0,0,1024,683,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/93ccc667df96e300.jpg 667,200,731,357,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a231c3de932f443e.jpg 178,2,553,437,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2ac6857abf349315.jpg 70,332,311,658,0 256,236,407,512,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d817c98af8abc3e5.jpg 495,258,500,263,0 518,246,581,267,0 607,263,612,269,0 630,260,637,270,0 822,267,831,277,0 871,267,882,278,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/46dab3d03db3a847.jpg 92,51,355,497,0 213,38,455,245,0 535,266,964,591,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f4897f79908b88dc.jpg 139,197,254,550,0 395,230,658,355,0 646,198,755,525,0 742,240,810,494,0 778,190,914,518,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b365499e08afb706.jpg 106,101,1006,825,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4757aebe700d4238.jpg 0,139,1024,997,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3d8e4a99105869ef.jpg 414,411,660,514,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d5ac5c9bfbd103f0.jpg 0,171,1024,313,0 0,289,995,482,0 243,431,890,659,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/476f760e41e62d09.jpg 288,0,606,576,0 872,13,1024,416,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/19183e8d6bee2d54.jpg 169,72,576,594,0 270,9,383,277,0 374,12,472,172,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1539a5edc6016394.jpg 168,216,290,610,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c92076179b9a8d6a.jpg 0,202,745,679,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f880e3b9834a12b4.jpg 102,388,519,1024,0 433,331,928,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2a53f4a7f1304cd6.jpg 0,518,21,691,0 717,430,782,640,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/630ac31f1aebf79a.jpg 0,0,438,912,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5a97c19518e187a8.jpg 365,79,746,518,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/7e42b5f27fdac6af.jpg 0,0,992,665,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/45150dad56f85464.jpg 11,106,1024,641,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/51cd761c44ec0a20.jpg 0,0,319,680,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/38ea6076b351f9d5.jpg 394,156,659,879,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/91dae34da82b33a6.jpg 29,172,411,776,0 317,242,491,763,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/46f8518db07333c6.jpg 594,265,740,391,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/823beb9965c2c811.jpg 504,94,775,500,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/67aa5fa695cce276.jpg 222,345,624,480,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ad1b5b92aa448a44.jpg 256,314,334,408,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ef9b66e431ad9fa4.jpg 107,260,467,849,0 388,296,612,779,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/05621567ec0498e8.jpg 0,245,1024,635,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c406da6dea41f971.jpg 59,103,92,128,0 86,281,106,315,0 86,300,125,338,0 106,77,125,143,0 306,95,321,116,0 351,72,383,119,0 483,94,553,119,0 484,567,502,602,0 496,240,514,264,0 626,539,641,564,0 680,534,700,573,0 740,279,760,315,0 772,563,807,598,0 795,278,820,314,0 804,104,831,121,0 819,225,855,285,0 888,109,920,143,0 909,270,926,315,0 930,281,950,315,0 973,257,997,288,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2578d54ab9e0122b.jpg 699,528,961,861,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/151870f90360195d.jpg 426,536,790,624,0 725,237,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3bd30f7e72b8b889.jpg 310,217,446,341,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/10e2f25e6d5b66ce.jpg 182,36,677,239,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/79f8c53978fcb5a1.jpg 0,71,975,527,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f5b593a0a9355ee2.jpg 0,104,1003,682,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2fa3fbb70fcdc80a.jpg 169,257,292,333,0 169,339,830,596,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0b4854f95ff858c7.jpg 122,0,648,681,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/01252dcb30a5f6d6.jpg 79,0,764,91,0 169,261,554,481,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/97e992a7afe78a1b.jpg 7,1,482,768,0 457,112,847,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3d06c8296ced2177.jpg 0,55,1024,593,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/58c19d66c4a3435b.jpg 697,58,1024,698,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4c6279939a019622.jpg 0,0,470,178,0 134,363,482,466,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/39468b81eaa62ba7.jpg 348,63,556,328,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/4d8362a5da8cdb42.jpg 449,384,714,627,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5e472a96fc329845.jpg 0,0,568,1024,0 192,0,396,411,0 390,38,683,411,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/c714b4a26ba32a6b.jpg 286,117,456,584,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f2f016381c334a21.jpg 109,0,928,699,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/65449ceea6259b21.jpg 0,34,1006,736,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ab422ef2a66ff9e2.jpg 191,285,276,511,0 318,211,629,654,0 748,0,1024,680,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5e9bc08e47a70ef7.jpg 0,26,23,101,0 14,32,50,103,0 24,289,106,403,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/07e061251601154d.jpg 838,106,1024,768,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/fdc3bd9b8717bd93.jpg 172,293,199,338,0 234,301,242,329,0 243,298,251,332,0 264,292,287,363,0 802,267,825,308,0 865,284,899,372,0 930,281,961,373,0 956,280,1001,372,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e405604fb1919286.jpg 0,0,1024,683,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f4f4568fd0336b0e.jpg 266,214,501,389,0 501,302,616,650,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2f4f0a1b3777ad87.jpg 599,389,846,620,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/3919fdc39fe0d182.jpg 262,184,565,886,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1bd418ad416f3350.jpg 371,359,581,686,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/77e47ee2a9405781.jpg 411,490,527,562,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/46539e2fbb5178f0.jpg 0,0,185,438,0 820,0,912,103,0 926,0,1024,343,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/90a0ec83eb534b6e.jpg 80,290,297,641,0 205,287,373,530,0 422,237,594,459,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/5d710ad40e8c84fa.jpg 186,64,624,346,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/32a70ecdbf132831.jpg 85,0,702,205,0 858,181,997,362,0 880,354,1002,611,0 890,146,978,243,0 918,370,1022,621,0 954,0,1022,165,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/ac20cc62c4cdaa1a.jpg 207,13,600,1024,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/1d7aae8f4a66cf16.jpg 117,105,677,962,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/082b7d6b6d5f73d9.jpg 0,0,727,356,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/cecae9dd996695c6.jpg 0,0,186,266,0 266,0,352,101,0 702,0,1024,736,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e8ddcd5af6f5fdc8.jpg 0,0,1024,683,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/514b3ae5c5a386ac.jpg 455,280,603,544,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/deecb9ce5d6a498e.jpg 866,0,1024,398,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/f1430279f4dc7d22.jpg 127,446,730,567,0 288,152,679,497,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a12b2e97eb2d9792.jpg 0,0,1024,555,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e9d2d6c983bf1b84.jpg 34,0,1024,301,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0a1061eb963e48a2.jpg 200,0,1022,535,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/57d4597023a3fe45.jpg 275,27,420,180,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/160d474ed25f3d68.jpg 0,280,768,987,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/91e12056a9482ea9.jpg 142,20,517,630,0 711,57,941,512,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/b129fca91c026041.jpg 42,177,142,364,0 95,346,204,473,0 210,147,293,307,0 346,130,428,271,0 455,9,513,107,0 472,566,555,685,0 507,243,558,342,0 517,100,579,212,0 619,200,661,301,0 643,50,734,207,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/cd33532d18c25c95.jpg 130,0,683,408,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/a68b86dbfa92bb40.jpg 94,144,506,591,0 675,454,913,743,0 712,49,928,329,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/8ce87db8cf42729c.jpg 574,243,773,526,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/083327ccfc4b1684.jpg 305,184,368,466,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/6e1de637850d9ee5.jpg 0,253,296,682,0 193,269,393,567,0 254,269,652,680,0 557,258,690,601,0 657,279,964,662,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/d22475c99e9bb9b2.jpg 435,25,606,322,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/bd3895b63372e1f2.jpg 371,258,410,363,0 640,286,683,325,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/83aa1b6d144c1c9d.jpg 110,27,171,176,0 226,35,266,150,0 262,35,315,123,0 346,21,406,114,0 699,0,904,338,0 702,26,736,83,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/2f165f16b4282539.jpg 314,254,510,582,0 508,247,659,515,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/0e865e9ca7c79f5c.jpg 134,0,717,150,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/51850863f46b1398.jpg 544,298,583,334,0 631,266,671,316,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/e82dea504f2c7bc6.jpg 519,214,551,242,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/db33895a65907c51.jpg 9,6,1022,576,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Person/80c7399dd4f6af83.jpg 501,346,548,417,0 621,334,695,681,0
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/34e3a3602aff3c7d.jpg 29,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a8172017ce5d06d1.jpg 29,6,570,622,1 351,82,985,771,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/432777ea07e6a11c.jpg 99,117,618,992,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/7c0ef13e57799792.jpg 0,10,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f5de56bdf6f8e52c.jpg 0,24,891,682,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/fce759856c77592d.jpg 366,219,709,480,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f2f179342b35ba41.jpg 28,36,986,361,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/56d252d1e2909d96.jpg 107,56,1024,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c5398c07bc863e3f.jpg 0,0,683,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/deec76c0bcbba90a.jpg 0,3,526,1000,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f5b432a274bc716c.jpg 0,0,1024,917,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/08e305c9897827dd.jpg 0,120,1024,946,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/47d78b102913256a.jpg 232,35,1022,616,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f5d487608dd6e7e2.jpg 68,166,859,1015,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/00567dcce4a5f7d9.jpg 72,38,1024,568,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e454064b1b93a18c.jpg 54,50,767,681,1 83,2,902,529,1 426,2,899,527,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/82362d80d002229b.jpg 110,107,612,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/bf65e27eb9157a7a.jpg 53,69,947,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f38f9691361366a1.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d6cee88392432433.jpg 1,100,694,577,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b572ddba4de5d202.jpg 259,213,961,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b3ace0bde1e54f25.jpg 154,64,603,963,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/45a7345c2ce29fb1.jpg 10,134,508,554,1 509,47,1016,453,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/9795a0a68ee51156.jpg 0,0,938,648,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0a4bfa962852da33.jpg 137,72,1024,649,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/7afc0eeba054827a.jpg 168,154,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/155fadedae2caf64.jpg 40,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d941dd09385ab609.jpg 0,37,896,667,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/461142f47ab65c5c.jpg 0,90,1024,749,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a6c0e8438331b1ff.jpg 202,29,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/eb8b33b231a7c0ea.jpg 0,0,764,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/918563348590a6bf.jpg 0,41,921,685,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/de8f8d687fd97aa0.jpg 107,0,849,681,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/09c48ceb3b1dbaf9.jpg 151,91,672,828,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6e4bfaae84b8d107.jpg 219,42,702,624,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/96fcc74bd8a50a1e.jpg 94,42,927,682,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/31224d3ef2fd3906.jpg 99,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8283c4b1c2d4f236.jpg 0,0,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/64103c4b84b9a880.jpg 126,245,624,768,1 616,94,894,691,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/4026314886cb0ca8.jpg 0,11,686,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/9a01f6eb14382926.jpg 357,401,630,902,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ba2d4b14bd4da247.jpg 147,30,968,638,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/2e71a8791610c237.jpg 191,449,626,675,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ae2a3bdb0ce6fba2.jpg 189,145,680,795,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/099d79a1168e95a2.jpg 0,98,1024,614,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e224f21344205091.jpg 291,754,414,846,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b2b61105a351bddc.jpg 403,90,848,576,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/98a1e07d6eb8dc47.jpg 114,181,703,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f85eaae5b2c73a12.jpg 0,179,1024,850,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/19c4a0cc64449c25.jpg 0,7,768,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3ca22df648943609.jpg 70,128,821,632,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3f00caea84121cd3.jpg 0,0,1024,685,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8ab75af736d14735.jpg 302,296,814,680,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/67ba5fcc0074cbbc.jpg 290,40,746,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0c7a5b1dea4d17a9.jpg 21,24,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d148a6d3818198bf.jpg 50,68,1024,880,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6441c35b6aa66c23.jpg 0,64,715,727,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1ba4133211378554.jpg 0,30,856,682,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a19c03812eb1875b.jpg 43,0,1024,936,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8601a805e39bd65e.jpg 222,104,970,970,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e225633fcc5b265c.jpg 171,0,657,570,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e5db8a474c8ce0ad.jpg 210,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3e7437af6b15b9df.jpg 92,127,492,946,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/eb857a8bb62525bb.jpg 90,11,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/02530be4f2f64f16.jpg 58,44,959,867,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/68fc56b5b09c8545.jpg 53,78,733,942,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/814142075788907f.jpg 66,20,912,681,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ae2677268e3a7e9e.jpg 0,23,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3d7234f01ac96fd8.jpg 33,13,1024,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/93e44b278af70d94.jpg 31,181,763,586,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/2a7d32e4352c4a14.jpg 80,106,817,823,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1cb086da2d0f605f.jpg 550,35,982,626,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0fc70d3067def51b.jpg 0,0,1024,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5fd33522bf2388ae.jpg 259,42,953,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5c5d8c1812766d24.jpg 221,0,1024,666,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/75c41dd7baa9bd1a.jpg 0,66,768,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a6929d36cab14179.jpg 75,115,846,571,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d3067d4ed9883200.jpg 45,30,944,463,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/509d5158f4eb0a39.jpg 187,142,862,642,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/bf13e6ad2753ca2b.jpg 85,166,861,622,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/4fa0b83534b59922.jpg 0,0,512,1024,1 512,510,1004,1024,1 553,39,1024,455,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/daf5a70878e73eea.jpg 424,414,618,715,1 531,493,640,746,1 598,523,707,706,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/27948ff87498ad30.jpg 0,0,1024,636,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/480869f6ba0b1d55.jpg 31,370,978,994,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/276ea88d95ca9277.jpg 440,2,1024,681,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/683a70a92941e0d7.jpg 210,29,1024,685,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/640de5e23beef372.jpg 33,136,734,651,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d035ae2a860f7fc2.jpg 0,2,1022,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/73a768d6526ed30b.jpg 130,102,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/4226aedbc485f6be.jpg 251,748,355,863,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e44f501b91390915.jpg 45,20,709,987,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1783ad10903fba33.jpg 0,103,582,766,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b2030181d46847e4.jpg 0,6,1014,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/613a59d150cd6df8.jpg 150,57,1024,835,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/843253b2f613251d.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/49b8f40d3cc801ad.jpg 0,242,694,853,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/88b54d1c4c59ac23.jpg 0,140,645,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3fedfcb948a32cfa.jpg 89,200,604,605,1 479,125,1024,596,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/41e8b495221c60de.jpg 5,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e357e559ef6dba64.jpg 51,112,422,725,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/dd476c2a7daef1dc.jpg 10,75,1024,618,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/604546966837bdb6.jpg 0,134,1022,579,1 575,122,1022,581,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/4d2786e4d0239451.jpg 155,34,1024,674,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/257e5d5231025484.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c76e8faa5c34ea64.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5fb14675a56c0134.jpg 0,0,1024,1023,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b3f8e9249661bff1.jpg 0,23,641,653,1 291,186,848,653,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/641d3e07620570c3.jpg 0,0,1024,649,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/2c4ca22d1b247fb5.jpg 27,118,875,578,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/57fe97c7079f0bfe.jpg 33,195,531,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6393e5f873aa5de5.jpg 110,0,1009,854,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/934f4a497abf345b.jpg 10,61,704,1022,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/19026b4f50e9e85c.jpg 0,0,1024,722,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/433b1019e2b38c86.jpg 0,0,840,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/256bc8abfd93b9cb.jpg 0,70,930,674,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8e82aece734ba00a.jpg 0,98,788,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b9a13e70fae2916c.jpg 8,25,624,517,1 566,309,1004,731,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0b3740b6e5bf6550.jpg 3,2,1021,765,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d2fb96f8af047139.jpg 326,107,1022,766,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/34b0fb7c57c11e3b.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0a10e5741162ef98.jpg 48,0,939,831,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/348d9473b71a2bbd.jpg 8,0,1011,709,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/264ba51f3f45cd67.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1a5b72476865532a.jpg 0,0,905,648,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/188ca42f30e882c5.jpg 264,49,1024,488,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/4a66bf2820f6f710.jpg 586,230,974,636,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ceabb84b25d7b257.jpg 0,0,1024,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/046f48d5c2c8d898.jpg 204,15,906,642,1 450,409,844,618,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c2f463c1041a6ddd.jpg 0,11,1024,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/cb5fe12d42cc08d0.jpg 0,0,1024,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/066af2f8fe78235f.jpg 451,696,530,992,1 478,560,539,834,1 522,826,590,960,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e73a08db2b7335ed.jpg 477,274,825,422,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ca2e59d5576531bb.jpg 206,131,970,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/9646d6d1e2f86d2e.jpg 41,0,749,981,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/40ffbf2979d8b0d9.jpg 177,42,1004,555,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1e6add7b7eda7f53.jpg 18,202,1019,806,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1a088883e69e1c47.jpg 0,32,1007,632,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e1a9333f18615b88.jpg 0,198,618,768,1 371,195,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d6f47aa23d0012b8.jpg 292,35,1024,680,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/2705a992ce042258.jpg 0,0,1024,573,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/530a59073149a771.jpg 89,177,498,947,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/10214ca8b5a6aa93.jpg 0,101,632,680,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c23660dceb33dfab.jpg 0,0,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/993abcdfcc589f69.jpg 8,26,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f61c635a70131e12.jpg 65,394,327,743,1 316,34,895,616,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8b67fa4bd8b64831.jpg 56,0,766,1021,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/858082cb499cc658.jpg 174,54,945,650,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/39c7059baaf7502d.jpg 0,288,682,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6d42ce1d79d3c7bd.jpg 0,229,971,603,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/bfa88b36a5b36cbd.jpg 77,0,1022,766,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c9d25389ecaa9fb4.jpg 2,2,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1ed5e97f0e6252cd.jpg 0,0,912,576,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b70a703ab6fca521.jpg 0,0,888,636,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c35f6f6946ade735.jpg 0,132,940,819,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/db70814db30b043b.jpg 352,368,504,499,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6cb77d0b00b00628.jpg 237,22,1024,738,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/89c1f4ee13eb83c8.jpg 80,172,1024,562,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/2b162562c3dab2ee.jpg 186,77,942,651,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5716633bbf55edf0.jpg 76,82,1024,905,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/92049cf94ef40df0.jpg 0,17,866,729,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8e010541ae2d99de.jpg 250,26,745,579,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/87939b8b25ebdf29.jpg 372,248,634,906,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/cb3bcfcd2cad5013.jpg 60,31,856,550,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3bb86de4e6e366be.jpg 41,80,700,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d3a76f97a3bf7f65.jpg 0,0,964,681,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d4a6d6808d638217.jpg 308,57,712,657,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/4765ca9c5ab26b14.jpg 230,0,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/49c71dedebe45f15.jpg 109,0,1024,691,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/aff4a70901f64f8c.jpg 0,0,1024,612,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c67168286f8b4f05.jpg 0,133,896,680,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a2a2287e72feb242.jpg 100,0,1024,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/04bfa701fa169045.jpg 125,389,805,767,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/2eda40fb417a6ea8.jpg 179,62,859,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a638ee7c2e7904c1.jpg 256,17,739,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c7a320a1c46657f0.jpg 184,0,1024,708,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/018376cd9ec14643.jpg 0,30,718,756,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5b87fe3dc049e0d3.jpg 15,87,1024,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e25f69fbcc0a4fd5.jpg 0,0,1024,990,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0b59ee0b31a5ab4e.jpg 19,0,765,994,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8de8d77e2ca8fa2b.jpg 170,53,954,704,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3b953530d59d434c.jpg 0,155,536,858,1 83,447,943,1024,1 484,0,1024,641,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d02296ce9f5281b8.jpg 163,0,1022,680,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/28624d709084a93c.jpg 36,0,955,669,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/603bd0f27aa853f5.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/46a1d95bdde6cbf4.jpg 142,105,991,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/bad1824afeffb9ac.jpg 0,0,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/67855c7ad297a90a.jpg 38,55,1005,842,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/590c930fb4690e08.jpg 298,130,494,400,1 430,384,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/faeb8fefc8081a35.jpg 233,208,1004,524,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0d2486e1b0367db4.jpg 111,0,1024,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/aa971e2448032efb.jpg 0,0,752,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/eaa0d976a272245d.jpg 126,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1f8be9f4e2488c19.jpg 0,14,1006,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f5f1d7b7073543bf.jpg 0,4,969,518,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d43e5c440137d1ef.jpg 0,0,1024,1017,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ebcb01a82d33dc94.jpg 210,0,1024,766,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e612ca21df0fe3d8.jpg 0,0,1005,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0cb8808f7615904e.jpg 0,139,656,933,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/605f67a5d6895cdf.jpg 89,18,838,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/138323ddc170f97e.jpg 0,120,1024,672,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/42900a970f2e108d.jpg 69,125,666,712,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/80b95a8935913250.jpg 0,5,739,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a11d943ecae8acd1.jpg 693,444,978,658,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1a1f29f419a0d590.jpg 94,62,912,518,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/16d71dfe9023ffb7.jpg 78,0,1024,681,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/7fa2537760df18de.jpg 482,568,542,638,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b96067ecafc094be.jpg 0,0,963,576,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/23b43d43a750986c.jpg 227,0,747,955,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/76823d656db6f271.jpg 0,1,1024,626,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/bfe1cb285ab6c465.jpg 24,12,872,709,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/689e17ccd947491c.jpg 54,2,1024,766,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/12d411b8aa57ea1d.jpg 302,104,1022,796,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/39266888cec0a7b6.jpg 197,0,1024,766,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3d0ddfdbd00a7d81.jpg 172,6,1024,1022,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f1293551ed3cf213.jpg 0,43,824,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0c783b33f01f7cac.jpg 0,0,1024,844,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/28971eb57e9c7f6d.jpg 0,122,310,625,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ea694b2e2c807b6f.jpg 378,160,1018,750,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/dde3d07c3d9d33ff.jpg 0,26,1024,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/01a471db31e88727.jpg 181,75,797,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a93f2e7b64a9a982.jpg 0,199,751,547,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a273f504b47d0670.jpg 0,11,720,768,1 0,82,1011,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/14857eda90de0088.jpg 69,0,952,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/886d80a6972ed935.jpg 0,0,846,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/626a1ed343d2067d.jpg 0,123,870,767,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8e7847985669065b.jpg 0,17,624,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/94c7ec3aee8f750a.jpg 299,170,1022,819,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/15bf0e35241018c5.jpg 252,21,1014,762,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/320f8cb169ba85b9.jpg 61,33,819,577,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8095f42b46289328.jpg 91,109,795,880,1 384,292,959,919,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0b1d8641c0a629e5.jpg 287,148,938,473,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/cec9154fd453bf8d.jpg 136,170,795,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/752f3a5a371cfaf6.jpg 202,507,530,815,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/07feb6cc3655dc87.jpg 83,0,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d343476e5f3927b1.jpg 0,166,714,1022,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/dad12b72eefb02ac.jpg 31,372,939,776,1 42,0,1003,562,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6fa3618f5c349941.jpg 0,0,994,743,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d066196ff13e985b.jpg 0,0,966,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/cfb0fd731ddb2216.jpg 249,139,793,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/466e41c35e268820.jpg 78,0,1024,765,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6f8fa156fa2639dd.jpg 60,2,768,954,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/fd87baf4fc1f9624.jpg 203,473,555,697,1 362,232,516,392,1 624,349,815,693,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/7214b3d165f6f448.jpg 0,42,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1789e596514349f6.jpg 87,83,877,723,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5b0c9af2803addc2.jpg 0,29,726,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a9ec4204bcff4611.jpg 10,67,1024,627,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/138ea2ee825b8b9a.jpg 0,0,1024,759,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/dcca4660c0ad6a16.jpg 0,134,642,1018,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/43f0c92c88e51a84.jpg 0,99,797,736,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/477ac744b3c16644.jpg 357,357,437,630,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a7c4157a735894ec.jpg 0,0,768,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f5cf808a825f5bd1.jpg 144,99,766,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b4554e0bc29ecb22.jpg 130,531,702,875,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/47856da5a73dfbd7.jpg 0,0,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/365ed10eaae7141a.jpg 0,0,501,679,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ef8ab729f1850d16.jpg 487,291,792,673,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/db8e394235fabb06.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/7531339407966c17.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/bb32d4035b4776ad.jpg 40,27,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/511d3f6782eaedf2.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/20ff8d78660a1cf9.jpg 108,170,805,750,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8f5f50aeb8658083.jpg 547,404,666,636,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1aeebf46169f423b.jpg 22,51,768,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/043d38140a8252f1.jpg 265,131,1024,559,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b58a5ed0f2c0c666.jpg 221,59,824,760,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/da9809b542e81c3b.jpg 69,0,926,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5714933b4e94d795.jpg 0,0,1006,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5ef00b088d73e9c5.jpg 125,17,683,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c607266bfb091a1d.jpg 0,30,941,605,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d65ff9cd75f1f668.jpg 48,107,478,298,1 440,45,1024,286,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/22374608e68c2c98.jpg 0,0,1024,766,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b3dcd8151b798534.jpg 301,573,427,702,1 365,410,493,520,1 430,515,531,643,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/224e8ae49051778b.jpg 39,127,769,538,1 742,23,1024,612,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/19ed10f087eb9b06.jpg 208,13,811,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e2c4d40185b04e15.jpg 142,44,684,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/beba2c6d42e704c7.jpg 167,154,855,623,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/bdd827df4ebaa702.jpg 313,134,721,338,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5e99d307339cecae.jpg 222,21,792,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/14f100eb85e81b95.jpg 221,29,761,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/9e8040dbb5c305b2.jpg 200,39,998,687,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5ae35b582cbe045a.jpg 0,0,981,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f1505f844343654d.jpg 42,54,1022,682,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/9ef34e6b2d71bf4b.jpg 98,80,1024,909,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/98106640c07d3859.jpg 0,6,863,644,1 0,292,537,644,1 581,195,1024,644,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/608db3664caf4a20.jpg 0,0,816,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/033797e7b2ae595b.jpg 37,26,693,768,1 426,106,995,550,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/08675994e6743b52.jpg 0,3,746,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/4d3b8fcda565397c.jpg 0,0,1024,682,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6b1c8059e8d9b4a0.jpg 33,16,430,684,1 344,340,975,727,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/12d23628822d875f.jpg 0,46,1024,928,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f77076d7db773c38.jpg 68,64,525,1006,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/87b0c1d2f9e705e8.jpg 0,0,722,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6d48b3ac912a62a3.jpg 180,139,736,686,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/7b3a52954981717e.jpg 1,0,724,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/30d02d2abb291244.jpg 0,35,878,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/713d733f78b82d47.jpg 164,12,766,687,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3161b69db01591e2.jpg 0,0,917,776,1 476,0,1024,771,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1580c1b38012fee9.jpg 9,38,401,976,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c71186eb526c51bc.jpg 5,78,861,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/09c1c18e1ca3f7c3.jpg 84,0,885,988,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/69f01c3ba009ac96.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1a0e40ee0c385961.jpg 0,0,640,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/4cbc6cef51132d5f.jpg 0,4,942,681,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/bda1f90c386ebf68.jpg 18,0,1024,681,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/01e836367cfb0c76.jpg 0,0,976,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/76f355364a8d1c81.jpg 109,126,1024,730,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5c6afbf283d1b1be.jpg 184,56,1024,684,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3ff56da98093083b.jpg 203,18,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/55d3576d4da19c99.jpg 307,138,617,655,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/424d963290eb3187.jpg 2,5,799,561,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/2e908d2d78ca538d.jpg 35,86,858,681,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/dead55ef9b5d710c.jpg 0,0,741,682,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/123b018bf069b759.jpg 326,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8af2a345eb63bfbd.jpg 11,68,464,683,1 547,209,1024,621,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6b9d3856e1f5b1cc.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/9f8fa46a93ebede1.jpg 197,44,936,664,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f4830b273c9dd521.jpg 70,0,738,504,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c17e3a4cde7df589.jpg 230,59,970,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c24d304aecf39375.jpg 0,118,688,937,1 562,286,1013,728,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/fa7f788157b981a7.jpg 133,176,971,681,1 226,21,1024,554,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d428059f03412517.jpg 358,286,885,587,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8e5b3ff8a9ccdcce.jpg 110,38,803,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/4adaf99870705b25.jpg 0,21,768,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/2c3ffd7b9a8f9627.jpg 0,0,997,725,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/69f955b20c4aae30.jpg 0,11,1015,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0e47cf48693a0bd4.jpg 117,51,834,637,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e04355e4a5f8fc60.jpg 0,0,594,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ee9b6b7f98869f00.jpg 69,0,979,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0e2715e7343f6ec3.jpg 2,0,988,618,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0b21383186fb9f81.jpg 367,177,830,493,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/da265f7e4a8c376e.jpg 15,111,809,649,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1c44be5c36ef95a1.jpg 245,58,901,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0bb03b3cad0efb39.jpg 61,0,845,693,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/71d13d72999119b9.jpg 131,0,930,767,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/40118e68097b1a16.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/60ddbb1c45154865.jpg 186,490,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/359ee5f482872afd.jpg 37,35,835,976,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/977b396e32bbd0cb.jpg 330,262,531,531,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/150a0a4623ed8a91.jpg 22,69,938,678,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c05d8d16b0e950f6.jpg 0,0,947,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/71292659fa121a41.jpg 338,63,1001,459,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/91ea1d7a4c7f4c0a.jpg 0,0,1024,747,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/9e6630d590abb2ad.jpg 10,0,675,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d034e057fe286ef2.jpg 0,35,953,678,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/dff616da49b79347.jpg 143,74,847,638,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b23cb38f0dd3c940.jpg 0,28,893,573,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/21199a79300d61ff.jpg 0,0,894,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f714cca664b154b6.jpg 152,48,1024,680,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/408f23e2f15b31d4.jpg 110,51,942,843,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3bdc8fb3c5ff9f6a.jpg 46,13,885,594,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/292e1ade3a1a1107.jpg 56,0,958,757,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3b5d68f17a2cd733.jpg 210,0,998,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0675c64e78c43bd4.jpg 301,168,665,648,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/7ac355b44ccedaae.jpg 0,5,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/387d419f6d1f6582.jpg 99,214,1024,621,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/885cae61d7aeac40.jpg 65,0,632,946,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c940807fb360334f.jpg 0,0,886,666,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e62ebee6d99be6b2.jpg 0,10,969,829,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5a659bd701b156e5.jpg 244,0,835,1022,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/bda9d251d035fef5.jpg 0,163,1022,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/2c20028d540cbc3f.jpg 111,111,998,957,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/73aa40ea11e5aa92.jpg 0,74,861,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0329708e66a64efb.jpg 0,74,682,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/7e03c4ec8575210e.jpg 11,0,1024,682,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/07d9048a6e0dc007.jpg 83,0,768,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/15441f45d3ec4ef2.jpg 184,110,1024,680,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/fbac116dfb2d59ac.jpg 7,5,1024,940,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ee05d462f52f0b10.jpg 160,0,1022,610,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/757e07d00225a5e4.jpg 24,85,1024,666,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/76a16e31ffacfda7.jpg 0,0,749,743,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/bb9820b7842f56db.jpg 50,15,967,648,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/98560808a75b6841.jpg 0,88,765,1010,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/757f8bbf6ac421f6.jpg 184,38,795,616,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1b00dd518444b7f8.jpg 183,15,889,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/213313f9f9fe0f8a.jpg 133,38,956,682,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f36ac3c82fa4c5e4.jpg 0,0,949,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d3d6c0d6d7c2300f.jpg 128,0,1018,696,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/00dd6d717c50e78b.jpg 0,0,358,383,1 329,0,740,502,1 686,228,1024,600,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/503f43092021faa1.jpg 206,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3d9c8e0606d4903f.jpg 407,479,621,700,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6c2259924e6160c1.jpg 52,39,856,941,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/56c3caafbba94156.jpg 23,136,1022,711,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/28b6374c630eca5a.jpg 47,115,956,600,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5bf625e3811120f9.jpg 0,97,619,654,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/25ae6f2d2e2a4b41.jpg 66,74,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3dff3fb317ff6bc1.jpg 72,26,959,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/cd127fa9599d2fde.jpg 267,61,709,637,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f334858135c2b91a.jpg 50,56,768,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e75817d785c5ec44.jpg 160,2,1022,644,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/2f5bfb3cbabde582.jpg 178,153,935,914,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/637364d5847bbad9.jpg 0,0,900,569,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6193a13cf97667b7.jpg 146,101,649,976,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/9543984b8ba4e8a4.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8d6e292b0e7bb123.jpg 81,518,399,723,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5c103aa7684a31a2.jpg 63,0,840,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/7497c74324998e8f.jpg 0,0,1024,943,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/fd10daf3b88ca3a1.jpg 0,185,442,930,1 279,67,810,732,1 379,272,1024,989,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/2721086b9c86bd90.jpg 0,0,971,534,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/473f886a4981c9ec.jpg 72,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/cad3f32214543a56.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8df75996ab83c91a.jpg 0,0,972,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d2b4ef0548d9df6b.jpg 0,0,1024,640,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d850f2718af2dc34.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f257d651d2cd0e7d.jpg 50,75,472,914,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3506b9bf31cf46f7.jpg 278,43,669,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0447d6428b6c2cf0.jpg 0,89,1024,685,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a460db7efea7be6d.jpg 121,0,887,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/370646c7ed8771a4.jpg 0,76,962,685,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/803274329a41469d.jpg 301,0,1008,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/16f7344738dda9b8.jpg 298,50,736,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8c1c686c3e02f1d5.jpg 314,162,965,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/022d642a36f4a551.jpg 131,102,670,970,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e372f568c6c65cb5.jpg 0,67,714,970,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6c195e7c6aa1c0e5.jpg 430,0,847,574,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ecee78e256eb3370.jpg 264,19,816,766,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/2de26547ae0c4a3e.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8ef8c290f6d316e9.jpg 24,54,768,738,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d7e7f7a21254fc3d.jpg 366,0,952,758,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/aab17c661742037d.jpg 0,0,960,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/611d05f445ee3ac2.jpg 0,0,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/853e7900cb82f66b.jpg 307,133,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/dd2d8d4e4e7bc9d3.jpg 43,0,1024,728,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/56b9005e804e39b5.jpg 0,0,768,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/caef915343a92ba7.jpg 0,0,1024,684,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/62ae4ead6e037fce.jpg 84,14,930,642,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0cbf8493b636ce37.jpg 0,109,638,688,1 542,189,1024,688,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/bd31127f25d35f2a.jpg 584,106,899,615,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f412cd4682264c80.jpg 0,42,854,915,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3fbf37d1b961ce3a.jpg 180,33,1022,798,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ce26d0f13deb5842.jpg 2,497,390,1001,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b8304b2504e77a05.jpg 34,0,1024,768,1 558,315,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6ee81505f359dded.jpg 131,0,715,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/88f932a032a3a460.jpg 0,0,1022,766,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f6d97e54ad42d974.jpg 253,12,1024,685,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0bf0f85a86ad212f.jpg 253,86,877,672,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b135ad54c116f7d0.jpg 11,0,1024,642,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d88b5485a9c1a3e1.jpg 319,160,662,576,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8046b387adcf34b2.jpg 34,307,854,598,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/df899e9fd1d16e6f.jpg 88,45,634,991,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d86ea77694e45cee.jpg 11,0,715,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/c6df082899e2fa75.jpg 79,34,904,757,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/d3487e4cf55c90d3.jpg 156,112,985,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/cd4df709482dcf0f.jpg 93,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/7edf7963e52fc54c.jpg 73,0,933,732,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1652367c424bc834.jpg 128,65,885,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/28e3525d81cccaba.jpg 321,149,808,692,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/23a9efeb0d35490f.jpg 0,0,979,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0d64005d60bca667.jpg 416,498,567,643,1 695,63,837,208,1 736,361,905,527,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0a397c6757b20695.jpg 90,0,1024,700,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/29ac3e7e5c591885.jpg 123,0,937,811,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0a652c84fb45f9a9.jpg 0,0,683,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e7af060d245a54ad.jpg 344,240,912,614,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/214a5095725a829d.jpg 286,166,443,330,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e0fbea41f0299ea6.jpg 24,0,987,755,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/58e32b1be1a8b5b4.jpg 0,0,896,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/af8827f8f1de5bb5.jpg 18,0,1024,678,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5c0202b8d36d48d3.jpg 0,48,947,681,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/09a727503e753c5d.jpg 30,168,702,1022,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/7a758ef08c249d3a.jpg 0,47,683,929,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a6a3a585a171e977.jpg 0,0,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3907f9531d6b2174.jpg 0,162,576,523,1 229,19,531,251,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/de08d5d70c292d59.jpg 0,0,1024,819,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/42ffb88674f40e62.jpg 0,0,1024,697,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a6130350d2fa2fc5.jpg 216,62,869,619,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/dd63a59e0078e28f.jpg 136,164,620,495,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8fb83431a5bf7db5.jpg 125,6,696,760,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/db3ba0b4629d4da7.jpg 2,0,927,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/a0393782540896b6.jpg 0,0,1017,797,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8dd4ce788c43cc46.jpg 34,166,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3eefc87b39fc86a6.jpg 0,2,1022,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/cb123121de0f76e3.jpg 314,26,926,629,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/8c6d17cf9b79b934.jpg 307,461,506,621,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6bcc7f361068d715.jpg 0,0,1024,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/ef4df0f889aa3e4f.jpg 0,0,1022,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/68284266d24126aa.jpg 32,110,1024,733,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/f226333af86dc478.jpg 253,430,408,802,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/336c8ad9fa28f1ca.jpg 0,33,1024,681,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/48b1dbd33bf0485d.jpg 67,211,943,590,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6412b564cd6a8443.jpg 170,0,784,768,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/27e8fb1d10c59f1a.jpg 0,0,683,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/5c78ce9e64586b86.jpg 427,0,1004,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/048c5a3cccc35143.jpg 0,70,640,979,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/07bdad692a27b235.jpg 36,26,975,708,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/01cc07838fc28a68.jpg 0,92,683,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/894064372069dd20.jpg 161,2,1018,680,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/58db5d8a84495252.jpg 172,0,1024,766,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/6dc99f3894b86d20.jpg 0,0,953,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/e8683b6f42c2dbf4.jpg 181,43,725,646,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/362e3b2a136fa652.jpg 115,0,691,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/29985a8fd2ee89f8.jpg 51,104,1024,611,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0ab266f92baec71c.jpg 484,383,749,634,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/b5e79249f8151459.jpg 0,59,613,683,1 435,0,1024,683,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/3601922acfc80330.jpg 2,2,1018,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/0524443ce8d771fb.jpg 181,99,1024,728,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/60f4752a2fdb1664.jpg 0,0,1024,726,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/1ffcfeb20fd180b8.jpg 0,174,698,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/02e94b92d16c65de.jpg 247,0,876,562,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/87fd6e61178f3d04.jpg 0,0,1024,1009,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/897b96f7eb5410d8.jpg 0,0,730,1024,1
+/home/debat/Téléchargements/TensorFlow-2.x-YOLOv3-master/OIDv4_ToolKit/OID/Dataset/test/Cat/9cbc3edd65aa7d44.jpg 106,0,1024,685,1
